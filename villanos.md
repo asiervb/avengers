@@ -2,3 +2,4 @@
 
 * Dr.Doomsday
 * RedShot
+* Capitán America
